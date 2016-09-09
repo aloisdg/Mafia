@@ -1,0 +1,24 @@
+{
+  "name": "mafio",
+  "version": "0.1.0",
+  "description": "mafio is a party game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloisdg/Mafio.git"
+  },
+  "keywords": [
+    "mafio",
+    "party",
+    "game"
+  ],
+  "author": "aloisdg",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/aloisdg/Mafio/issues"
+  },
+  "homepage": "https://github.com/aloisdg/Mafio#readme"
+}
